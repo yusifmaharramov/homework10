@@ -173,3 +173,220 @@ button {
     top: -472px;
     left: 640px;
 }
+
+.productive {
+    height: 838px;
+    width: 1440px;
+    left: 0px;
+    top: 838px;
+    border-radius: 0px;
+    background-color: #F2F2F2;
+    position: relative;
+}
+
+.curve {
+    position: absolute;
+    background-image: url(../Images/curve.png);
+    z-index: 9;
+    width: 1440px;
+    height: 856px;
+}
+
+.staypro {
+    position: absolute;
+    color: #07043B;
+    height: 47px;
+    width: 650px;
+    left: 80px;
+    top: 178px;
+    font-family: 'Raleway';
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 47px;
+    letter-spacing: 0px;
+    text-align: left;
+    z-index: 10;
+}
+
+.neverlet {
+    position: absolute;
+    color: #07043B;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    height: 48px;
+    width: 529px;
+    left: 80px;
+    top: 263px;
+    z-index: 10;
+}
+
+.securely {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #07043B;
+    position: absolute;
+    font-style: normal;
+    height: 48px;
+    width: 529px;
+    left: 80px;
+    top: 327px;
+    z-index: 10;
+}
+
+.rectangle {
+    position: absolute;
+    height: 1px;
+    width: 166px;
+    left: 0px;
+    top: 26px;
+    border-radius: 0px;
+    left: 80px;
+    right: 0%;
+    top: 412px;
+    bottom: 0%;
+    background: #3DA08F;
+    z-index: 10;
+}
+
+.textrect a {
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    height: 22px;
+    width: 146px;
+    left: 80px;
+    top: 387px;
+    color: #3DA08F;
+    z-index: 10;
+    text-decoration: none;
+}
+
+.oval {
+    position: absolute;
+    height: 12px;
+    width: 12px;
+    left: 233px;
+    top: 393px;
+    border-radius: 50%;
+    background-color: #3DA08F;
+    box-shadow: 0px 0px 2px rgba(61, 160, 143, 0.793507);
+    z-index: 10;
+}
+
+.arrow {
+    background-image: url(../Images/Shape.png);
+    position: relative;
+    height: 4px;
+    width: 5.32px;
+    left: 3px;
+    top: 4px;
+    border-radius: 0px;
+}
+
+.quotebox {
+    position: relative;
+    height: 215px;
+    width: 356px;
+    left: 80px;
+    top: 457px;
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 0px 10px 5px rgba(56, 56, 56, 0.0458843);
+    border-radius: 5px;
+    z-index: 10;
+}
+
+.quotetext {
+    position: absolute;
+    height: 92px;
+    width: 289px;
+    left: 33px;
+    top: 49px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 23px;
+    letter-spacing: 0.5px;
+    color: #07043B;
+}
+
+.quoteimg {
+    background-image: url(../Images/“.png);
+    position: absolute;
+    height: 10px;
+    width: 13px;
+    left: 33px;
+    top: 26px;
+}
+
+.kylebox {
+    position: relative;
+    height: 32px;
+    width: 137px;
+    left: 33px;
+    top: 157px;
+    border-radius: 0px;
+    z-index: 10;
+}
+
+.kyleimg {
+    position: absolute;
+    background-image: url(../Images/kyle.png);
+    width: 32px;
+    height: 32px;
+}
+
+.kylename {
+    position: absolute;
+    height: 15px;
+    width: 71px;
+    left: 40px;
+    top: 2px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 15px;
+    letter-spacing: 0.55px;
+    color: #07043B;
+}
+
+.ceo {
+    position: absolute;
+    height: 15px;
+    width: 97px;
+    left: 40px;
+    top: 17px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 8px;
+    line-height: 15px;
+    letter-spacing: 0.4px;
+    color: #07043B;
+}
+
+.productiveimg {
+    position: absolute;
+    background-image: url(../Images/illustration_2.svg);
+    height: 409px;
+    width: 542px;
+    left: 818px;
+    top: 219.5px;
+    border-radius: 0px;
+    z-index: 10;
+}
